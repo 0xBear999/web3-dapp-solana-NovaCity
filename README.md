@@ -1,228 +1,59 @@
-Contribution: 2021-09-29 20:00
+# 👋🏼 What is `learn-web3-dapp`?
 
-Contribution: 2021-09-29 20:01
+We made this decentralized application (dApp) to help developers learn about Web 3 protocols.
 
-Contribution: 2021-09-29 20:02
+It's a Next.js app that uses React, TypeScript and various smart contract languages (mostly Solidity and Rust).
 
-Contribution: 2021-09-29 20:03
+We will guide you through using the various blockchain JavaScript SDKs to interact with their networks. Each protocol is slightly different, but we have attempted to standardize the workflow so that you can quickly get up to speed on networks like Solana, NEAR, Polygon and more!
 
-Contribution: 2021-09-29 20:04
+- ✅ Solana
+- ✅ Polygon
+- ✅ Avalanche
+- ✅ NEAR
+- ✅ Tezos
+- ✅ Secret
+- ✅ Polkadot
+- ✅ Celo
+- ✅ Ceramic
+- ✅ The Graph
+- 🔜 Arweave
+- 🔜 Chainlink
+- 🔜 Pyth
+- [Let us know which one you'd like us to cover](https://github.com/figment-networks/learn-web3-dapp/issues)
 
-Contribution: 2021-09-29 20:05
+<img width="1024" alt="Screen Shot 1" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme-01.png">
 
-Contribution: 2021-09-29 20:06
+<img width="1024" alt="Screen Shot 2" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme-02.png">
 
-Contribution: 2021-09-29 20:07
+<img width="1024" alt="Screen Shot 3" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme-03.png">
 
-Contribution: 2021-09-29 20:08
+# 🧑‍💻 Get started
 
-Contribution: 2021-09-29 20:09
+## 🤖 Using Gitpod (Recommended)
 
-Contribution: 2021-09-30 20:00
+The best way to go through those courses it using [Gitpod](https://gitpod.io). Gitpod provides prebuilt developer environments in your browser, powered by VS Code. Just sign in using GitHub and you'll be up and running in seconds without having to do any manual setup 🔥
 
-Contribution: 2021-09-30 20:01
+[**Open this repo on Gitpod**](https://gitpod.io/#https://github.com/figment-networks/learn-web3-dapp)
 
-Contribution: 2021-09-30 20:02
+## 🐑 Clone locally
 
-Contribution: 2021-09-30 20:03
+Make sure you have installed [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [Node.js](https://nodejs.org/en/) (Please install **v14.17.0**, we recommend using [nvm](https://github.com/nvm-sh/nvm)) and [yarn](https://yarnpkg.com/getting-started/install).
 
-Contribution: 2021-09-30 20:04
+Then clone the repo, install dependencies and start the server by running all these commands:
 
-Contribution: 2021-09-30 20:05
+```text
+git clone https://github.com/figment-networks/learn-web3-dapp.git
+cd learn-web3-dapp
+yarn
+yarn dev
+```
 
-Contribution: 2021-09-30 20:06
+# 🤝 Feedback and contributing
 
-Contribution: 2021-09-30 20:07
+If you encounter any errors during this process, please join our [Discord](https://figment.io/devchat) for help.
 
-Contribution: 2021-09-30 20:08
+Feel free to also open an Issue or a Pull Request on the repo itself.
 
-Contribution: 2021-09-30 20:09
+We hope you enjoy our Web 3 education dApps 🚀
 
-Contribution: 2021-10-01 20:00
-
-Contribution: 2021-10-01 20:01
-
-Contribution: 2021-10-01 20:02
-
-Contribution: 2021-10-02 20:00
-
-Contribution: 2021-10-02 20:01
-
-Contribution: 2021-10-02 20:02
-
-Contribution: 2021-10-02 20:03
-
-Contribution: 2021-10-02 20:04
-
-Contribution: 2021-10-02 20:05
-
-Contribution: 2021-10-02 20:06
-
-Contribution: 2021-10-02 20:07
-
-Contribution: 2021-10-02 20:08
-
-Contribution: 2021-10-02 20:09
-
-Contribution: 2021-10-02 20:10
-
-Contribution: 2021-10-05 20:00
-
-Contribution: 2021-10-05 20:01
-
-Contribution: 2021-10-05 20:02
-
-Contribution: 2021-10-05 20:03
-
-Contribution: 2021-10-05 20:04
-
-Contribution: 2021-10-05 20:05
-
-Contribution: 2021-10-05 20:06
-
-Contribution: 2021-10-06 20:00
-
-Contribution: 2021-10-06 20:01
-
-Contribution: 2021-10-06 20:02
-
-Contribution: 2021-10-06 20:03
-
-Contribution: 2021-10-06 20:04
-
-Contribution: 2021-10-06 20:05
-
-Contribution: 2021-10-06 20:06
-
-Contribution: 2021-10-06 20:07
-
-Contribution: 2021-10-06 20:08
-
-Contribution: 2021-10-06 20:09
-
-Contribution: 2021-10-06 20:10
-
-Contribution: 2021-10-09 20:00
-
-Contribution: 2021-10-09 20:01
-
-Contribution: 2021-10-09 20:02
-
-Contribution: 2021-10-09 20:03
-
-Contribution: 2021-10-09 20:04
-
-Contribution: 2021-10-09 20:05
-
-Contribution: 2021-10-10 20:00
-
-Contribution: 2021-10-10 20:01
-
-Contribution: 2021-10-10 20:02
-
-Contribution: 2021-10-10 20:03
-
-Contribution: 2021-10-10 20:04
-
-Contribution: 2021-10-10 20:05
-
-Contribution: 2021-10-11 20:00
-
-Contribution: 2021-10-11 20:01
-
-Contribution: 2021-10-11 20:02
-
-Contribution: 2021-10-11 20:03
-
-Contribution: 2021-10-11 20:04
-
-Contribution: 2021-10-11 20:05
-
-Contribution: 2021-10-11 20:06
-
-Contribution: 2021-10-12 20:00
-
-Contribution: 2021-10-12 20:01
-
-Contribution: 2021-10-12 20:02
-
-Contribution: 2021-10-13 20:00
-
-Contribution: 2021-10-13 20:01
-
-Contribution: 2021-10-13 20:02
-
-Contribution: 2021-10-13 20:03
-
-Contribution: 2021-10-14 20:00
-
-Contribution: 2021-10-14 20:01
-
-Contribution: 2021-10-14 20:02
-
-Contribution: 2021-10-14 20:03
-
-Contribution: 2021-10-14 20:04
-
-Contribution: 2021-10-14 20:05
-
-Contribution: 2021-10-14 20:06
-
-Contribution: 2021-10-14 20:07
-
-Contribution: 2021-10-14 20:08
-
-Contribution: 2021-10-14 20:09
-
-Contribution: 2021-10-14 20:10
-
-Contribution: 2021-10-14 20:11
-
-Contribution: 2021-10-15 20:00
-
-Contribution: 2021-10-15 20:01
-
-Contribution: 2021-10-15 20:02
-
-Contribution: 2021-10-15 20:03
-
-Contribution: 2021-10-16 20:00
-
-Contribution: 2021-10-16 20:01
-
-Contribution: 2021-10-16 20:02
-
-Contribution: 2021-10-16 20:03
-
-Contribution: 2021-10-17 20:00
-
-Contribution: 2021-10-17 20:01
-
-Contribution: 2021-10-17 20:02
-
-Contribution: 2021-10-17 20:03
-
-Contribution: 2021-10-17 20:04
-
-Contribution: 2021-10-18 20:00
-
-Contribution: 2021-10-18 20:01
-
-Contribution: 2021-10-18 20:02
-
-Contribution: 2021-10-18 20:03
-
-Contribution: 2021-10-18 20:04
-
-Contribution: 2021-10-18 20:05
-
-Contribution: 2021-10-18 20:06
-
-Contribution: 2021-10-18 20:07
-
-Contribution: 2021-10-18 20:08
-
-Contribution: 2021-10-18 20:09
-
-Contribution: 2021-10-18 20:10
-
+-- ❤️ The Figment Learn Team
